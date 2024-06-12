@@ -1,0 +1,37 @@
+.body {
+    background-color: #1B1A1A;
+    font-family: "Roboto Mono", monospace;
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.bodyCarta {
+    background-color: #1B1A1A;
+    font-family: "Roboto Mono", monospace;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+    overflow-x: hidden;
+}
+
+h1 {
+    color: #FCFFEB;
+
+}
+
+.envelope {
+    width: 500px;
+    transform: rotate(-90deg);
+}
+
+.carta {
+    width: 700px;
+}
